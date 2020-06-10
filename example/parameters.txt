@@ -1,0 +1,2 @@
+inputfile plugins/SCIMM/example/HMP_MOCK.v35.fasta
+numclusters 5

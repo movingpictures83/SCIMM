@@ -1,0 +1,2 @@
+Prefix plugins/SCIMM/example/
+Plugin SCIMM inputfile parameters.txt outputfile sample.fa.binning
