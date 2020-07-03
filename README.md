@@ -1,7 +1,8 @@
+# SCIMM
 # Language: C++
 # Input: TXT
-# Output: TXT
-# Tested with: PluMA 1.0, GCC 4.8.4
+# Output: FASTA
+# Tested with: PluMA 1.1, GCC 4.8.4
 
 Sequence Clustering with Interpolated Markov Models (Kelley and Salzberg, 2010).
 
